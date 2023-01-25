@@ -1,4 +1,4 @@
 # Misiones
 
-Investigar los planes
-Capturar a villanos
+* Investigar los planes
+* Capturar a villanos
